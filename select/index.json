@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "A Little Girl",
+  "base_artist": "OHHYUK",
+  "createdAt": "2025-12-25T13:19:11.570529Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Little Girl from Little Rock",
+      "artist": "Marilyn Monroe",
+      "has_synced": true,
+      "path": "select/01_A_Little_Girl_from_Little_Rock_Marilyn_Monroe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Want A Little Girl",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/02_I_Want_A_Little_Girl_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Want A Little Girl",
+      "artist": "Nat King Cole",
+      "has_synced": false,
+      "path": "select/03_I_Want_A_Little_Girl_Nat_King_Cole.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pictures from a Little Girl",
+      "artist": "The Residents",
+      "has_synced": true,
+      "path": "select/04_Pictures_from_a_Little_Girl_The_Residents.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "When I Was a Little Girl",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/05_When_I_Was_a_Little_Girl_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mamma's Just a Little Girl (KP Remix)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/06_Mamma's_Just_a_Little_Girl_(KP_Remix)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mama's Just a Little Girl - KP remix",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/07_Mama's_Just_a_Little_Girl_-_KP_remix_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Want A Little Girl",
+      "artist": "Ray Charles",
+      "has_synced": false,
+      "path": "select/08_I_Want_A_Little_Girl_Ray_Charles.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Want a Little Girl",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/09_I_Want_a_Little_Girl_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mama's Just A Little Girl",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/10_Mama's_Just_A_Little_Girl_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Little Girl From Little Rock",
+      "artist": "Marilyn Monroe",
+      "has_synced": false,
+      "path": "select/11_A_Little_Girl_From_Little_Rock_Marilyn_Monroe.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Need A Little Girl",
+      "artist": "Rick Derringer",
+      "has_synced": false,
+      "path": "select/12_Need_A_Little_Girl_Rick_Derringer.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Met A Little Girl",
+      "artist": "Marvin Gaye",
+      "has_synced": false,
+      "path": "select/13_I_Met_A_Little_Girl_Marvin_Gaye.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Want a Little Girl - 2016 Mono Remaster",
+      "artist": "Ray Charles",
+      "has_synced": true,
+      "path": "select/14_I_Want_a_Little_Girl_-_2016_Mono_Remaster_Ray_Charles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Just a Little Girl",
+      "artist": "Amy Studt",
+      "has_synced": true,
+      "path": "select/15_Just_a_Little_Girl_Amy_Studt.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "A Little Girl",
+      "artist": "OHHYUK",
+      "has_synced": false,
+      "path": "select/pl_01_A_Little_Girl_OHHYUK.txt"
+    }
+  ]
+}
